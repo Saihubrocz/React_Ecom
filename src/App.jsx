@@ -3,7 +3,7 @@ function App() {
 
   return (
     <>
-      <h1>Ecommerece project </h1>
+      <h1>Ecommerece project hiii</h1>
     </>
   )
 }
